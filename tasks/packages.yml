@@ -1,0 +1,9 @@
+- name: install htop
+  apt:
+    name: 
+      - htop
+      - mc
+      - tmux
+    
+    
+

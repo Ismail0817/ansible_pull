@@ -9,5 +9,7 @@ sudo apt install ansible
 ```
 
 then run the following command:
+```console
 sudo ansible-pull -U https://github.com/Ismail0817/ansible_pull.git
+```
 

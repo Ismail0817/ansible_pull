@@ -5,6 +5,7 @@
       - mc
       - tmux
       - cron
+      - mtr
     
 
 
